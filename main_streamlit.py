@@ -9,10 +9,10 @@ import numpy as np
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 import faiss
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # Load environment variables from .env file
-load_dotenv()
+# load_dotenv()
 
 # Retrieve API keys from environment variables
 # open_ai_api_key = os.getenv("OPENAI_API_KEY")
