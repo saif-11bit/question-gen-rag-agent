@@ -1,0 +1,10 @@
+langchain
+langchain-community
+lxml_html_clean
+newspaper3k
+sentence-transformers
+requests
+faiss-cpu
+numpy
+tqdm
+streamlit
