@@ -204,7 +204,7 @@ def main():
     st.title("📝 Interview Questions Generator")
 
     st.markdown("""
-    This application fetches relevant articles based on your query, processes them, and generates insightful interview questions using OpenAI's GPT-4.
+    This application fetches relevant articles based on your query, processes them, and generates insightful interview questions.
     """)
 
     st.header("Generate Interview Questions")
